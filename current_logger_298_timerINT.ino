@@ -22,7 +22,7 @@
  *
  *  For motor wiring, assume A to be one side, and B to the other side. 
 */
-#include <TimerOne.h>
+#include <TimerOne.h>   // timer interrupt library
 #include <SPI.h>
 #include <SD.h>
 
